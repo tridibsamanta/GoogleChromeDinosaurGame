@@ -7,4 +7,4 @@ A python script which automates the playing of the no internet google chrome din
 4. Make sure you have the pyautogui,time modules installed in your system.
 5. You may need to adjust the parameters of the p.pixel() in line 5 if the script dosent work properly.
 
-######MADE WITH ♥ BY TRIDIB SAMANTA######
+MADE WITH ♥ BY TRIDIB SAMANTA
